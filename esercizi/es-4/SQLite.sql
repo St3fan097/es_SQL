@@ -1,3 +1,3 @@
 UPDATE Books
-SET price = 16.99, stock_count = 8
+SET price = 10.99, stock_count = 4
 WHERE title = 'War and Peace';
